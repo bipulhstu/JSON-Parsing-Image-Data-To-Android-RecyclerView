@@ -1,0 +1,74 @@
+{
+	"HERO": {
+		"hero0": {
+			"name": "Sushant Singh Rajput",
+			"img": "https://st1.bollywoodlife.com/wp-content/uploads/2019/08/Sushant-Singh-Rajput.jpg",
+			"description": "Sushant Singh Rajput was an Indian actor who is best known for his work in Hindi cinema. Rajput started his career with television serials. His debut show was Star Plus's romantic drama Kis Desh Mein Hai Meraa Dil, followed by a starring role in Zee TV's soap opera Pavitra Rishta."
+		},
+		"hero1": {
+			"name": "Ayushman Khurana",
+			"img": "https://www.gstatic.com/tv/thumb/persons/663432/663432_v9_ba.jpg",
+			"description": "Ayushmann Khurrana is an Indian actor, singer, and television host. Known for his portrayals of ordinary men often battling social norms, he is the recipient of several awards, including a National Film Award and four Filmfare Awards, and has appeared in Forbes India's Celebrity 100 list of 2013 and 2019."
+		},
+		"hero2": {
+			"name": "Aamir Khan",
+			"img": "https://www.pinkvilla.com/files/styles/contentpreview/public/aamirkhanlalsingh100.jpg?itok=xQh9stO-",
+			"description": "Aamir is doubtless one of the most dedicated actors in this world. With his recent successes in both the Indian and Chinese markets he has shouldered his way into becoming one of the world's biggest superstars. Undergoing rapid transformations in his body structure to better embody the variegated"
+		},
+		"hero3": {
+			"name": "Amitabh Bacchan",
+			"img": "https://www.bollywoodhungama.com/wp-content/uploads/2020/03/amitabh-1.jpg",
+			"description": "Son of well known poet Harivansh Rai Bachchan and Teji Bachchan. He has a brother named Ajitabh. He completed his education from Uttar Pradesh and moved to Bombay to find work as a film star, in vain though, as film-makers preferred someone with a fairer skin, and he was not quite fair enough. "
+		},
+		"hero4": {
+			"name": "Irrfan Khan",
+			"img": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/16/Pictures/_e29c5190-28ff-11e8-9f95-06a811d7e716.jpg",
+			"description": "Born Sahabzade Irfan Ali Khan, in Jaipur, Rajasthan (NW India) January 7, 1967 to a Pashto-speaking Muslim family. Khan's mother, Begum Khan, was from the Tonk Hakim family and his father, Jagirdar Khan, from the Khajuriya village near the Tonk district, ran a tire business."
+		},
+		"hero5": {
+			"name": "Shahrukh Khan",
+			"img": "https://static.toiimg.com/thumb/msid-69902898,imgsize-115506,width-800,height-600,resizemode-75/69902898.jpg",
+			"description": "Shahrukh Khan was born on 2 November 1965 in New Delhi, India. He married Gauri Khan on 25 October 1991. They have three children, son Aryan Khan (b. 1997), son AbRam (b.2013) and daughter Suhana (b. 2000). Khan started out his career by appearing in several television serials during 1988-1990"
+		},
+		"hero6": {
+			"name": "Mohanlal",
+			"img": "https://www.deccanherald.com/sites/dh/files/article_images/2020/05/19/Mohanlal-586806212-1587214597.jpg",
+			"description": "Mohanlal was born to Viswanathan Nair (father) and Santhakumari (mother) in Pathanamthitta district of Kerala, in the southern part of India on 21st May 1960. Starting his career with a classic villain role, he has now become an outstanding actor of Malayalam Cinema in Kerala. Without no doubt"
+		},
+		"hero7": {
+			"name": "Mammootty",
+			"img": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/3/11/w1200X800/Mammootty_YouTube.jpg",
+			"description": "Malayalam film actor Mammootty was born to Ismail (an agriculturist) and Fatima (a homemaker). He had two younger brothers Ibrahim and Zakariah; and three sisters, Ameena, Sauda and Shafina. He did his high school (pre-degree) at Maharaja's College, Thevara and then studied law at Ernakulam "
+		},
+		"hero8": {
+			"name": "Ajay Devgn",
+			"img": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2020/07/ajay-devgn-003.jpg",
+			"description": "Ajay Devgn is an Indian film actor, director, and producer. He made his film debut with Phool Aur Kaante in 1991 and received a Filmfare Award for Best Male Debut for his performance in the film. He then starred in films such as Courage (1992), Dilwale (1994), Suhaag (1994), Naajayaz (1995), Diljale."
+		},
+		"hero9": {
+			"name": "Akshay Kumar",
+			"img": "https://www.bollywoodhungama.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-04-at-5.49.41-PM.jpeg",
+			"description": "Akshay Kumar, born September 9, 1967, is an actor. He studied martial arts in Hong Kong. It was a student that suggested that he try modeling. Because of his success as model, he was offered films. Along with his good looks and excellent martial art skills, he was always the first choice to do"
+		},
+		"hero10": {
+			"name": "Hrithik Roshan",
+			"img": "https://static.toiimg.com/photo/msid-71756742/71756742.jpg?134917",
+			"description": "Hrithik Roshan is an Indian actor, born on 10th January 1974, well known globally for his versatile roles, unmatchable dancing skills and attractive looks. After having appeared in films as a child actor in the 1980s, Roshan made his film debut in a leading role in Kaho Naa... Pyaar Hai (2000)"
+		},
+		"hero11": {
+			"name": "Salman Khan",
+			"img": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/salman-khan-1584090953.jpg",
+			"description": "Born on December 27, 1965 Salman Khan is the son of the legendary writer Salim Khan, who penned many super-hits in the yesteryear's like Sholay (1975), Deewaar (1975), and Don (1978). Salman started his acting carrier in 1988 by doing a supporting role in the movie How a Wife Should Be (1988)."
+		},
+		"hero12": {
+			"name": "Varun Dhawan",
+			"img": "https://static.toiimg.com/photo/msid-73147211/73147211.jpg?resizemode=4&width=400",
+			"description": "Varun Dhawan ([ʋəˈrʊɳ dʱəˈʋən]; born 24 April 1987) is an Indian actor. One of the country's highest-paid celebrities, he has featured in Forbes India's Celebrity 100 list since 2014. Several of the films in which he starred were commercially successful, establishing Dhawan in Hindi cinema."
+		},
+		"hero13": {
+			"name": "Prabhas",
+			"img": "https://images.khaleejtimes.com/storyimage/KT/20200428/ARTICLE/200428517/AR/0/AR-200428517.jpg&MaxW=780&imageVersion=16by9&NCS_modified=20200429071008",
+			"description": "Uppalapati Venkata Satyanarayana Prabhas Raju (born 23 October 1979), known mononymously as Prabhas, is an Indian actor who works predominantly in Telugu films along with Hindi and Tamil films. Prabhas made his screen debut with the 2002 Telugu action drama film Eeswar."
+		}
+	}
+}
